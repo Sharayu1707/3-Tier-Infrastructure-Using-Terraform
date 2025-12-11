@@ -6,7 +6,7 @@
 
 * The goal is to design and provision a secure, modular, and cloud-optimized infrastructure that follows AWS best practices.
 
-# Feature :
+# Features :
 
 * Fully Automated Infrastructure (IaC)
 
